@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "747788383601",
+    "project_id": "project--5268503574715778592"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747788383601:android:4f398a54b9376e41",
+        "android_client_info": {
+          "package_name": "main.ferolino.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747788383601-49ms7hbrrggvdpk9vv74j6qnjjd2s2p3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "main.ferolino.googlesignin",
+            "certificate_hash": "06D317CA4100FD587EA53A4E0901599C688F8CC3"
+          }
+        },
+        {
+          "client_id": "747788383601-298d1s4p16eqagqegqfcul2tb2ih3jk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD09zOR4agH64bNZkT6FleD_oknSlG9fr0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
